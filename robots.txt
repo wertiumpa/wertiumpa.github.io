@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wertiumpa.github.io/wertiumpa.txt.gz
+Sitemap: https://wertiumpa.github.io/app/wertiumpa.txt.gz
+Sitemap: https://wertiumpa.github.io/assets/wertiumpa.txt.gz
+Sitemap: https://wertiumpa.github.io/css/wertiumpa.txt.gz
+Sitemap: https://wertiumpa.github.io/includes/wertiumpa.txt.gz
+Sitemap: https://wertiumpa.github.io/item/wertiumpa.txt.gz
+Sitemap: https://wertiumpa.github.io/src/wertiumpa.txt.gz
